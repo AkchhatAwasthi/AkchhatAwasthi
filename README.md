@@ -2,7 +2,7 @@
   <a href="https://github.com/AkchhatAwasthi/AkchhatAwasthi/blob/main/download.gif"><img width="400" src="https://github.com/AkchhatAwasthi/AkchhatAwasthi/blob/main/download.gif"  title="PEACE BY Akchhat" ref="https://www.instagram.com/fahad.khan.18/?hl=en"></a>
 </p>
 # 💫 About Me:
-🚀 Akchhat | Data Science Enthusiast<br>👨‍🎓 B.Tech Data Science student at Lovely Professional University | Passionate about AI, ML & Big Data<br>🔍 Exploring Machine Learning, Data Analytics & Predictive Modeling<br>💡 Solving real-world problems with Python, SQL & C++<br>📊 Building projects in AI, Web Dev & Data Visualization<br>🚀 On a mission to master DSA, System Design & Scalable Solutions<br>📬 Let's connect & collaborate!
+🚀 Akchhat | Data Science Enthusiast <br>👨‍🎓 B.Tech Data Science student at Lovely Professional University | Passionate about AI, ML & Big Data<br>🔍 Exploring Machine Learning, Data Analytics & Predictive Modeling<br>💡 Solving real-world problems with Python, SQL & C++<br>📊 Building projects in AI, Web Dev & Data Visualization<br>🚀 On a mission to master DSA, System Design & Scalable Solutions<br>📬 Let's connect & collaborate!
 
 
 ## 🌐 Socials:
